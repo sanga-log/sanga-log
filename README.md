@@ -20,7 +20,7 @@
 ### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sang-a-lee-5116b12b9)
-[![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=vercel&logoColor=white)](https://blog-three-phi-31.vercel.app/blog)
+[![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=vercel&logoColor=white)]([https://sanga-log.vercel.app/blog](https://sanga-log.vercel.app/blog))
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:comt.mix@gmail.com)
 
 ---
