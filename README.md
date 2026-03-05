@@ -1,9 +1,9 @@
 <!-- 프로필 이미지 & 소개 -->
 <div align="center">
-  <img width="120" height="120" alt="profile_final" style="border-radius: 50%;" src="https://github.com/user-attachments/assets/c284b29b-b27a-44a9-9348-9e2e246da332" />
+  <img width="120" height="120" alt="readme profile" src="https://github.com/user-attachments/assets/56852d80-eafc-4297-9803-b571ad595faa" />
   <p> Hi, I'm SangA 👋 </p>  
-  <p>A developer who's always thinking about how to live more fun —</p>
-  <p>and trying to make today just a little more enjoyable than yesterday.</p>
+  <p>Code gets better, life stays fun — that's how I roll.</p>
+  <p>Always trying to make today a little more enjoyable than yesterday.</p>
   <p>Hope you enjoy today too 🙂</p>
 </div>
 
@@ -14,7 +14,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
 ---
 ### Contact
